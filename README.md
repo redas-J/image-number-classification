@@ -1,2 +1,2 @@
-# image-numer-classification
-Classify hand-written numbers using neural networks and MNIST database
+# image-number-classification
+Classify hand-written numbers using neural networks and MNIST database.
